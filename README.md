@@ -1,4 +1,4 @@
-# Arbitrary Precision Multiply by two
+# Arbitrary Precision Multiply By Two
 
 <img width="1113" alt="screenshot of multiply" src="https://github.com/zea17/big-mult-2/assets/93328643/dd82b625-92c8-4844-9064-0d61c7d13fa0">
 
